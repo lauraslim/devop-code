@@ -10,7 +10,7 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>devops<artifactId>
+  <artifactId>devops</artifactId>
   <packaging>war</packaging>
   <name>devops</name>
   <description>devops.</description>
